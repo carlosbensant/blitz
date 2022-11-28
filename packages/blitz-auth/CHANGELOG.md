@@ -1,5 +1,11 @@
 # @blitzjs/auth
 
+## 2.0.0-beta.20
+
+### Patch Changes
+
+- blitz@2.0.0-beta.20
+
 ## 2.0.0-beta.19
 
 ### Minor Changes
