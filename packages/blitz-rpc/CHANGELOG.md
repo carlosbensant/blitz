@@ -1,5 +1,13 @@
 # @blitzjs/rpc
 
+## 2.0.0-beta.20
+
+### Patch Changes
+
+- 8c247e26: Switch from jest to vitest in new app templates
+- 650a157e: fix: allow `GET` requests without `params` and `meta` keys
+  - @blitzjs/auth@2.0.0-beta.20
+
 ## 2.0.0-beta.19
 
 ### Minor Changes
